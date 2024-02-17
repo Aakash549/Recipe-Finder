@@ -1,0 +1,2 @@
+This project is about building a Recipe Finder app using JavaScript, HTML, and CSS. This app will allow users to search for recipes by ingredient and provide them with a list of options to choose from.
+First, we'll start by creating a basic HTML layout for our app. We'll use CSS to style the layout and make it visually appealing. Then, we'll use JavaScript to fetch recipe data from an API and dynamically display it on the page.
